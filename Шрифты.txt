@@ -1,0 +1,9 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Cardo:ital@1&family=Open+Sans:wght@700&family=Raleway:wght@300;400;600;700&display=swap" rel="stylesheet"> 
+
+
+font-family: 'Cardo', serif;                                      Regular 400 italic
+
+font-family: 'Open Sans', sans-serif;                      Bold 700
+
+font-family: 'Raleway', sans-serif;                          Light 300   Regular 400   Semi-bold 600    Bold 700  
